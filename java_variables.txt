@@ -1,0 +1,24 @@
+byte: used to represent small integers from -128 to 127. The variable type is byte.
+
+short: used to represent small integers from -32,768 to 32,767. The variable type is short.
+
+int: used to represent integers from -2,147,483,648 to 2,147,483,647. The variable type is int.
+
+long: used to represent large integers from -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807. The variable type is long.
+
+float: used to represent floating-point numbers with single precision. The variable type is float.
+
+double: used to represent floating-point numbers with double precision. The variable type is double.
+
+boolean: used to represent a logical value of true or false. The variable type is boolean.
+
+char: used to represent a single character, such as a letter or a digit. The variable type is char.
+
+--------------------------------------------------------------------------------------------------------------------------------------
+To declare a variable in Java, you need to specify the data type followed by the variable name. For example, to declare an integer variable called myNumber, you can use the following code:
+
+int myNumber;
+int myNumber = 42;
+myNumber = 100;
+System.out.println("The value of myNumber is " + myNumber); // prints "The value of myNumber is 100"
+--------------------------------------------------------------------------------------------------------------------------------------
